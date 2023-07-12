@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://trrpaqc6tn30"
-path="res://.godot/imported/FloorsAndWalls.png-39b81b0f086cac873f48ad54c8b0c7a2.ctex"
+uid="uid://cufn20b3o3sgr"
+path="res://.godot/imported/DoorsAndWindows.png-2f5d3285f290b953cb60e8701689f677.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/FloorsAndWalls.png"
-dest_files=["res://.godot/imported/FloorsAndWalls.png-39b81b0f086cac873f48ad54c8b0c7a2.ctex"]
+source_file="res://terrain/assets/DoorsAndWindows.png"
+dest_files=["res://.godot/imported/DoorsAndWindows.png-2f5d3285f290b953cb60e8701689f677.ctex"]
 
 [params]
 

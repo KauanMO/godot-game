@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ca0felqihfc1u"
-path="res://.godot/imported/FurnitureState1.png-6c97f6501dd5d8cf509a64bec7ce2db0.ctex"
+uid="uid://kth1lt4gqief"
+path="res://.godot/imported/SmallItems.png-3da2b621049d1e437dad3c31e1065b1c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/FurnitureState1.png"
-dest_files=["res://.godot/imported/FurnitureState1.png-6c97f6501dd5d8cf509a64bec7ce2db0.ctex"]
+source_file="res://terrain/assets/SmallItems.png"
+dest_files=["res://.godot/imported/SmallItems.png-3da2b621049d1e437dad3c31e1065b1c.ctex"]
 
 [params]
 

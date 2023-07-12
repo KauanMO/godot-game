@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cufn20b3o3sgr"
-path="res://.godot/imported/DoorsAndWindows.png-037a5b11fba3ffe95a98078187154d33.ctex"
+uid="uid://ca0felqihfc1u"
+path="res://.godot/imported/FurnitureState1.png-bb7bfa684ee4ef13d8cd735d482a9dc8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/DoorsAndWindows.png"
-dest_files=["res://.godot/imported/DoorsAndWindows.png-037a5b11fba3ffe95a98078187154d33.ctex"]
+source_file="res://terrain/assets/FurnitureState1.png"
+dest_files=["res://.godot/imported/FurnitureState1.png-bb7bfa684ee4ef13d8cd735d482a9dc8.ctex"]
 
 [params]
 
